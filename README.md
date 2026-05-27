@@ -1,0 +1,2 @@
+# rework-generator
+Proyecro paradigmas
